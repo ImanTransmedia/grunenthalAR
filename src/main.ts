@@ -1,4 +1,4 @@
-import { bootstrapCameraKit } from "@snap/camera-kit";
+import { bootstrapCameraKit } from "@snap/camera-kit"; //
 
 (async function () {
   const cameraKit = await bootstrapCameraKit({
